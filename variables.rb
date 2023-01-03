@@ -12,3 +12,8 @@ num_of_pets = 1
 rand_float_1 = 1.5
 rand_float_2 = 10.75
 rand_float_3 = 3289.19
+
+#booleans
+is_present = true
+is_tired = true
+is_caffeinated = true
