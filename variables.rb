@@ -7,3 +7,8 @@ last_name = "Joh"
 date_of_birth = 10061991
 age = 31
 num_of_pets = 1
+
+#floats
+rand_float_1 = 1.5
+rand_float_2 = 10.75
+rand_float_3 = 3289.19
