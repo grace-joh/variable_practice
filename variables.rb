@@ -19,6 +19,6 @@ is_tired = true
 is_caffeinated = true
 
 #puts
-puts `My full name is ${first_name} ${middle_init}. ${last_name}.`
-puts `${first_name} is ${age} years old.`
-puts `${first_name} has ${num_of_pets} pet.`
+puts "My full name is #{first_name} #{middle_init}. #{last_name}."
+puts "#{first_name} is ${age} years old."
+puts "#{first_name} has #{num_of_pets} pet."
